@@ -61,7 +61,6 @@ else
 fi
 
 alias cn8000='java -jar /Applications/cn8000_iclientj_v1.6.158.jar'
-alias copymyzsh='scp -r ~miga/.myzsh ~miga/.zshrc'
 
 export CVSEDITOR=vim
 export SVNEDITOR=vim
